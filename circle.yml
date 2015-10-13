@@ -3,4 +3,5 @@ machine:
     version: oraclejdk8
 
 test:
-  override: gradle check
+  override:
+    - gradle check
