@@ -4,4 +4,4 @@ machine:
 
 test:
   override:
-    - gradle check
+    - ./gradle check
