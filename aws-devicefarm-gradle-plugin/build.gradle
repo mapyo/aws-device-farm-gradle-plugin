@@ -49,7 +49,7 @@ test {
     useTestNG()
 }
 
-group 'com.amazonaws'
+group 'com.github.mapyo'
 version '1.0'
 
 ext.isReleaseVersion = !version.endsWith("SNAPSHOT")
